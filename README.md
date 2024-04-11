@@ -1,4 +1,4 @@
-## Shapley value-based deceptive evidence detection in the information fusion of belief functions
+## Shapley value-based deceptive evidence detection in belief functions
 
 Deceptive evidence detection is an important issue in the theory of belief functions, which can be used to solve the problem of conflicts between evidence and to assess the credibility of evidence sources. 
 
